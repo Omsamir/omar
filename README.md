@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="file:///tmp/mozilla_omar0/PicsArt_01-20-09.34.00.jpg"></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
