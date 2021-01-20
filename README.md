@@ -21,13 +21,13 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/Omsamir/omar-seeker #installation">
+  <a style="margin-right: 10px;" href="https://github.com/Omsamir/omar-seeker#installation">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a style="margin-right: 10px;" href="https://github.com/Omsamir/omar-seeker #usage">
+  <a style="margin-right: 10px;" href="https://github.com/Omsamir/omar-seeker#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/Omsamir/omar-seeker #demo">
+  <a href="https://github.com/Omsamir/omar-seeker#demo">
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
