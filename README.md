@@ -97,7 +97,7 @@ Available Templates :
 
 ```bash
 git clone https://github.com/Omsamir/omar-seeker.git
-cd omar'seeker/
+cd omar-seeker/
 apt update
 apt install python3 python3-pip php
 pip3 install requests
@@ -113,7 +113,7 @@ pacman -S seeker
 
 ```bash
 git clone https://github.com/Omsamir/omar-seeker.git
-cd omar'seeker/
+cd omar-seeker/
 pkg update
 pkg install python php
 pip3 install requests
